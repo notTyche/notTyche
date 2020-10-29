@@ -1,7 +1,7 @@
 # Hi there 👋
 - 🔭 I’m currently studying on University of Calabria
 - 🌱 I’m currently learning Perl, C#
-- 👯 I’m looking to collaborate on [https://github.com/nefele-org/nefele-desktop][3]
+- 👯 I’m looking to collaborate on [https://github.com/nefele-org/nefele-desktop][1]
 - 💬 Interested in:
       - UI design
       - AI
@@ -9,8 +9,8 @@
       - Security and Processing of Personal Data
 
 ## 📬 Get in touch
-- Facebook: [https://www.facebook.com/matteo.perfidio/][3]
-- Twitter: [https://twitter.com/notTyche][3]
+- Facebook: [https://www.facebook.com/matteo.perfidio/][1]
+- Twitter: [https://twitter.com/notTyche][2]
 - E-mail: [perfidiomatteo7@gmail.com][3]
 
 
