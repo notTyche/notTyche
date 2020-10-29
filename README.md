@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Perl, C#
 - 👯 I’m looking to collaborate on [https://github.com/nefele-org/nefele-desktop][1]
 - 💬 Interested in:
-- UI design
-- AI
-- Web Projects
-- Security and Processing of Personal Data
+  - UI design
+  - AI
+  - Web Projects
+  - Security and Processing of Personal Data
 
 ## 📬 Get in touch
 - Facebook: [https://www.facebook.com/matteo.perfidio/]
