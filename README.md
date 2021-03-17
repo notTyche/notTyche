@@ -18,7 +18,7 @@
 
 <p>
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=notTyche&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="notTyche" />
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notTyche&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,M4,Tex&theme=dark" alt="notTyche" />
+  <img height="180em" src="https://github-readme-stats-kwrx.vercel.app/api/top-langs/?username=notTyche,@bioagrisrls,@nefele-org&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,M4,Tex,Objective-C,PLpgSQL,TSQL,SQLPL,Shell,Hack,Vue,HTML&theme=dark" alt="notTyche" />
 </p>
 
 
