@@ -18,7 +18,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats-kwrx.vercel.app/api?username=notTyche&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark" alt="kwrx" />
-  <img height="180em" src="https://github-readme-stats-kwrx.vercel.app/api/top-langs/?username=notTyche,@bioagrisrls,@nefele-org&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,M4,Tex,Objective-C,PLpgSQL,TSQL,SQLPL,Shell,Hack,Perl,Vue,HTML&theme=dark" alt="kwrx" />
+  <img height="180em" src="https://github-readme-stats-kwrx.vercel.app/api/top-langs/?username=notTyche,@bioagrisrls,@nefele-org&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Makefile,BatchFile,Powershell,M4,Tex,Objective-C,PLpgSQL,TSQL,SQLPL,Shell,Hack,SCSS,Vue,HTML&theme=dark" alt="kwrx" />
 </p>
 
 
