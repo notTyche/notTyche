@@ -1,6 +1,5 @@
 # Hi there 👋
 - 🔭 I’m currently studying on University of Calabria
-- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on [Nefele Desktop][1]
 - 💬 I’m Interested in:
   - UI design
