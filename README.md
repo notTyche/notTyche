@@ -7,7 +7,7 @@
   - Statistics
 
 ## 📬 Get in touch
-- Linkedin: [https://www.linkedin.com/in/matteo-perfidio-730420208/][5]
+- Linkedin: [https://www.linkedin.com/in/matteo-perfidio/][5]
 - Facebook: [https://www.facebook.com/matteo.perfidio/][2]
 - Twitter: [https://twitter.com/notTyche][3]
 - E-mail: [perfidiomatteo7@gmail.com][4]
