@@ -1,11 +1,10 @@
 # Hi there 👋
 - 🔭 I’m currently studying on University of Calabria
-- 👯 I’m looking to collaborate on [Nefele Desktop][1]
 - 💬 I’m Interested in:
-  - Data Science
-  - AI
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Visualization
   - Statistics
-  - Math
 
 ## 📬 Get in touch
 - Linkedin: [https://www.linkedin.com/in/matteo-perfidio-730420208/][5]
