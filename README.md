@@ -1,8 +1,7 @@
 # Hi there 👋
-- 🔭 I’m currently studying on University of Calabria
+- 🔭 I’m currently working at Intesa Sanpaolo
 - 💬 I’m Interested in:
   - Artificial Intelligence
-  - Machine Learning
   - Data Visualization
   - Statistics
 
