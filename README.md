@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🔭 I’m currently working at Intesa Sanpaolo
+- 🔭 I’m currently working at HYPE
 - 💬 I’m Interested in:
   - Artificial Intelligence
   - Data Visualization
